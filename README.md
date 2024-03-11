@@ -11,7 +11,6 @@ I also used display-flex and flex-direction column for the main sections of the 
 
 I then added comments to CSS.
 
-
 What I could not figure out:
 
 I was unable to resize images with different sizes. When I changed one, they all changed to that size. I was unsure of how to make a class/id for a particular image.
